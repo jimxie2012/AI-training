@@ -1,9 +1,10 @@
 
 AI实践课程介绍 (Practice of AI)
 
-Trainer：谢文伟 (Jim Xie)
+	Trainer：谢文伟 (Jim Xie)
 
-Email: 33278970@qq.com
+	Email: 33278970@qq.com
+
 
 课程目标：
 	Focus on practice
